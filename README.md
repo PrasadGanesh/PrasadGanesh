@@ -1,11 +1,12 @@
-### Hi there, I'm Ganesh Prasad... 👋
+### Hi there 👋, I'm Ganesh...😃 
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [geeksforgeeks plugin][website]!
 - 🌱 I’m currently learning React.js and... everything 🤣
 - 👯 I’m looking for SDE roles
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to play Badminton 🎾 and Harmonica 🎼
+- 😄 Pronouns: he/him
+- ⚡ Fun fact: I love to play Badminton 🎾 and a bit of Harmonica 🎼
 
 ### Connect with me:
 
