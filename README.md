@@ -1,8 +1,8 @@
-### Hi there 👋, I'm Ganesh...😃 
+### Hi there 👋, I'm Ganesh...☺️ 
 
 ## I'm a Developer!
 - 🔭 I’m currently working on a [geeksforgeeks plugin][website]!
-- 🌱 I’m currently learning React.js and... everything 🤣
+- 🌱 I’m currently learning React.js
 - 👯 I’m looking for SDE roles
 - 🥅 2020 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: he/him
