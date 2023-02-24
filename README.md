@@ -2,12 +2,10 @@
 
 ## I'm a Developer!
 
-- 🔭 I’m currently working on a [geeksforgeeks plugin][website]!
-- 🌱 I’m currently learning React.js
-- 👯 I’m looking for SDE roles
-- 🥅 2020 Goals: Contribute more to Open Source projects
+- 🔭 I’m currently working as a back-end developer at [Appscrip](https:/appscrip.com)
+- 🥅 2023 Goals: Contribute more to Open Source projects
 - 😄 Pronouns: he/him
-- ⚡ Fun fact: I love to play Badminton 🎾 and a bit of Harmonica 🎼
+- ⚡ Fun fact: I can speak three languages fluently: Hindi, English, and German.
 
 ### Connect with me:
 
