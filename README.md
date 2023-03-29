@@ -75,7 +75,6 @@ BLOG-POST-LIST:END -->
 [website]: https://prasadganesh.github.io/
 [twitter]: https://twitter.com/codeSTACKr
 [youtube]: https://www.youtube.com/channel/UCF4PvmWw-fo_CbYmOTZSHkwr
-[instagram]: https://instagram.com/ganeshpr227
 [linkedin]: https://linkedin.com/in/ganesh-prasad
 [webdevplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrAJ0WbEsFA9W3I1W-g_BTsbt
 [jsplaylist]: https://www.youtube.com/playlist?list=PLkwxH9e_vrALRJKu7wfXby3MKeflhTu6B
